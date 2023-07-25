@@ -1,0 +1,10 @@
+* cl-opencl
+
+Common Lisp CFFI interface to OpenCL C API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ghollisjr/cl-opencl.git   |
+| commit  | 4f85a76  |
+| systems | cl-opencl |
+|---------+-------------------------------------------|
+
